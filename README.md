@@ -127,3 +127,8 @@ $${Q_{t+1}(a)=\begin{cases}
 It does not estimate ${Q_{t+1}(a)}$. Instead, it samples ${Q_{t+1}(a)}$ from the posterior probability distribution. That means, unlike all 
 the above algorithms, we need to know which probability distribution to use. Or, we need an approximation of the posterior probability 
 distribution.
+
+# Reference
+- Carnegie Mellon University, Fragkiadaki, Katerina, et al. 2024. "10-403 Deep Reinforcement Learning" As of 8 November, 2024. 
+https://cmudeeprl.github.io/403website_s24/.
+- Sutton, Richard S., and Barto, Andrew G. 2018. Reinforcement Learning - An indroduction, second edition. The MIT Press.
